@@ -1,0 +1,12 @@
+prefix=c:/01-FILES/AI/assesments/SKygeni/venv/Library
+exec_prefix=c:/01-FILES/AI/assesments/SKygeni/venv/Library
+libdir=c:/01-FILES/AI/assesments/SKygeni/venv/Library/lib
+includedir=c:/01-FILES/AI/assesments/SKygeni/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -1,0 +1,13 @@
+prefix=C:/01-FILES/AI/assesments/SKygeni/venv/Library
+exec_prefix=C:/01-FILES/AI/assesments/SKygeni/venv/Library
+libdir=C:/01-FILES/AI/assesments/SKygeni/venv/Library/lib
+sharedlibdir=C:/01-FILES/AI/assesments/SKygeni/venv/Library/lib
+includedir=C:/01-FILES/AI/assesments/SKygeni/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
