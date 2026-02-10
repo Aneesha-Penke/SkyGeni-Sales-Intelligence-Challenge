@@ -1,10 +1,10 @@
 # Sales Intelligence Challenge
-Thsi project analyses CRM sales data to understand why win rate changed and identify the key drivers of wins and loses and also build a lightweight decision engine to flag high risk deals.
+This project analyzes CRM sales data to understand why win rate changed and identify the key drivers of wins and loses and also build a lightweight decision engine to flag high risk deals.
 
 ### Dataset-
-sales lifecycle(dates and stage)
-Deal outcome, amount
-Metadata- industry, region product etc
+- sales lifecycle(dates and stage)
+- Deal outcome, amount
+- Metadata- industry, region product etc
 
 ## APPROACH 
 ### 1. Data prepartion
