@@ -9,7 +9,7 @@ This project analyzes CRM sales data to understand why win rate changed and iden
 ## APPROACH 
 ### 1. Data prepartion
  - Checked for missing and duplicate values
- - Converted date columns into proer datetime format
+ - Converted date columns into proper datetime format
  - Converted a binary win_flag from outcome
  - Created time based features(Month and Quarter)
 
