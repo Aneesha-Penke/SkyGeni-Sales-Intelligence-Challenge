@@ -1,4 +1,4 @@
-**Sales Intelligence Challenge**
+# Sales Intelligence Challenge
 Thsi project analyses CRM sales data to understand why win rate changed and identify the key drivers of wins and loses and also build a lightweight decision engine to flag high risk deals.
 
 Dataset-
